@@ -19,6 +19,6 @@
 - UX designers enhance user satisfaction by improving the usability and accessibility of a product, while UI designers enhance user satisfaction by making the product’s   interface look and feel enjoyable for the user. UX designers draw out the map of the product, which UI designers then flesh it out with visual and interactive           touchpoints. UX and UI designers often work in tandem to maximize the responsiveness, efficiency, and accessibility of a website.
 
 ## Career scope
-- The number of people searching for a UI UX design course near me has increased rapidly due to the increasing demand for skilled user interface designers and user       experience developers.
+
 - The UI/UX designer’s demand in India is massive. In India, the vacancies for fresher and more experienced UI UX designers have exploded in the past 5 years.
 -  In each major city of India, there are multiple jobs available for UI UX designers.
