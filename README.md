@@ -2,7 +2,7 @@
   This is the official Repository for the Event of UI/UX Conducted by the Verge Team in SRM University on 1st October 2022 (Saturday).
 ## UI Introduction
 - UI stands for user interface . UI design refers to the visual design of a digital product’s interface. It’s the process of creating interfaces with a focus on look,     style, and interactivity. 
-- User interface focuses on : Anticipating what users might need to do and ensuring that the interface has elements that are ** easy to access ,understand and use   to     facilitate those actions .
+- User interface focuses on : Anticipating what users might need to do and ensuring that the interface has elements that are easy to access ,understand and use   to     facilitate those actions .
 ## UI Designer work
 - A UI designer will design the movement between different screens, and create the visual elements and their interactive properties that facilitate user interaction. 
 - While UI design is largely a visual discipline, UI designers work on a vast array of projects. In order to design accessible, user-friendly interfaces, UI designers     bring empathy into every stage of the design process from designing screens, icons, and interactions, to creating a style guide that ensures consistency and the proper   implementation of a visual language across an entire product.
