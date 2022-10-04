@@ -7,7 +7,7 @@
 - A UI designer will design the movement between different screens, and create the visual elements and their interactive properties that facilitate user interaction. 
 - While UI design is largely a visual discipline, UI designers work on a vast array of projects. In order to design accessible, user-friendly interfaces, UI designers     bring empathy into every stage of the design process from designing screens, icons, and interactions, to creating a style guide that ensures consistency and the proper   implementation of a visual language across an entire product.
 ## UX Introduction
-- UX stans for User Experience. User experience, or UX, is a term used to describe the overall experience a user has when interacting with a product or service in a       given context. Depending on how the product or service is designed, the experience can range from delightful to downright frustrating! 
+- UX stand for User Experience. User experience, or UX, is a term used to describe the overall experience a user has when interacting with a product or service in a       given context. Depending on how the product or service is designed, the experience can range from delightful to downright frustrating! 
 - User experience design, or UXD, considers each and every element that shapes the user experience. It’s all about designing specifically for the needs of the user or     customer, looking at things like ease of use, quality, and efficiency.
 ## UX Designer work 
 -  UX designers look to bridge the gap between the product and the human user. They think about how people interact with a given product, and look for ways to make these    interactions as intuitive and straightforward as possible.
